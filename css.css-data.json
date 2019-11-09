@@ -1,0 +1,796 @@
+{
+    "version": 1.1,
+    "properties": [{
+        "name": "-s2-mix-blend-mode",
+        "description": "Controls blending mode for the panel.",
+        "references": [{
+            "name": "See -s2-mix-blend-mode",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#-s2-mix-blend-mode"
+        }]
+    }, {
+        "name": "align",
+        "references": [{
+            "name": "See align",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#align"
+        }]
+    }, {
+        "name": "animation",
+        "references": [{
+            "name": "See animation",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation"
+        }]
+    }, {
+        "name": "animation-delay",
+        "references": [{
+            "name": "See animation-delay",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation-delay"
+        }]
+    }, {
+        "name": "animation-duration",
+        "references": [{
+            "name": "See animation-duration",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation-duration"
+        }]
+    }, {
+        "name": "animation-iteration-count",
+        "references": [{
+            "name": "See animation-iteration-count",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation-iteration-count"
+        }]
+    }, {
+        "name": "animation-name",
+        "references": [{
+            "name": "See animation-name",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation-name"
+        }]
+    }, {
+        "name": "animation-timing-function",
+        "references": [{
+            "name": "See animation-timing-function",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#animation-timing-function"
+        }]
+    }, {
+        "name": "background-blur",
+        "description": "Sets the amount of blur to apply to the contents behind this panel during composition.",
+        "references": [{
+            "name": "See background-blur",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-blur"
+        }]
+    }, {
+        "name": "background-color",
+        "description": "Sets the background fill color/gradient/combination for a panel.",
+        "references": [{
+            "name": "See background-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-color"
+        }]
+    }, {
+        "name": "background-image",
+        "description": "Comma separated list of images or movies to draw in the background.",
+        "references": [{
+            "name": "See background-image",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-image"
+        }]
+    }, {
+        "name": "background-position",
+        "description": "Controls the horizontal and vertical placement of the background image.",
+        "references": [{
+            "name": "See background-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-position"
+        }]
+    }, {
+        "name": "background-repeat",
+        "description": "Controls if the background should be repeated in the horizontal and vertical directions.",
+        "references": [{
+            "name": "See background-repeat",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-repeat"
+        }]
+    }, {
+        "name": "background-size",
+        "description": "Sets the horizontal and vertical dimensions used to draw the background image.",
+        "references": [{
+            "name": "See background-size",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#background-size"
+        }]
+    }, {
+        "name": "blur",
+        "description": "Sets the amount of blur to apply to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See blur",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#blur"
+        }]
+    }, {
+        "name": "border",
+        "description": "Shorthand for setting panel border.",
+        "references": [{
+            "name": "See border",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border"
+        }]
+    }, {
+        "name": "border-bottom",
+        "description": "Shorthand for setting the bottom panel border.",
+        "references": [{
+            "name": "See border-bottom",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom"
+        }]
+    }, {
+        "name": "border-bottom-color",
+        "description": "Specifies border color for the bottom edge of the panel.",
+        "references": [{
+            "name": "See border-bottom-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom-color"
+        }]
+    }, {
+        "name": "border-bottom-left-radius",
+        "description": "Specifies border-radius for bottom-left corner which rounds off border and clips background/foreground content to rounded edge.",
+        "references": [{
+            "name": "See border-bottom-left-radius",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom-left-radius"
+        }]
+    }, {
+        "name": "border-bottom-right-radius",
+        "description": "Specifies border-radius for bottom-right corner which rounds off border and clips background/foreground content to rounded edge.",
+        "references": [{
+            "name": "See border-bottom-right-radius",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom-right-radius"
+        }]
+    }, {
+        "name": "border-bottom-style",
+        "description": "Specifies border style for the bottom edge of the panel.",
+        "references": [{
+            "name": "See border-bottom-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom-style"
+        }]
+    }, {
+        "name": "border-bottom-width",
+        "description": "Specifies border width for the bottom edge of the panel.",
+        "references": [{
+            "name": "See border-bottom-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-bottom-width"
+        }]
+    }, {
+        "name": "border-color",
+        "description": "Specifies border color for panel.",
+        "references": [{
+            "name": "See border-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-color"
+        }]
+    }, {
+        "name": "border-left",
+        "description": "Shorthand for setting the left panel border.",
+        "references": [{
+            "name": "See border-left",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-left"
+        }]
+    }, {
+        "name": "border-left-color",
+        "description": "Specifies border color for the left edge of the panel.",
+        "references": [{
+            "name": "See border-left-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-left-color"
+        }]
+    }, {
+        "name": "border-left-style",
+        "description": "Specifies border style for the left edge of the panel.",
+        "references": [{
+            "name": "See border-left-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-left-style"
+        }]
+    }, {
+        "name": "border-left-width",
+        "description": "Specifies border width for the left edge of the panel.",
+        "references": [{
+            "name": "See border-left-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-left-width"
+        }]
+    }, {
+        "name": "border-radius",
+        "description": "Shorthand to set border radius for all corners at once.",
+        "references": [{
+            "name": "See border-radius",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-radius"
+        }]
+    }, {
+        "name": "border-right",
+        "references": [{
+            "name": "See border-right",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-right"
+        }]
+    }, {
+        "name": "border-right-color",
+        "references": [{
+            "name": "See border-right-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-right-color"
+        }]
+    }, {
+        "name": "border-right-style",
+        "references": [{
+            "name": "See border-right-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-right-style"
+        }]
+    }, {
+        "name": "border-right-width",
+        "references": [{
+            "name": "See border-right-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-right-width"
+        }]
+    }, {
+        "name": "border-style",
+        "references": [{
+            "name": "See border-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-style"
+        }]
+    }, {
+        "name": "border-top",
+        "references": [{
+            "name": "See border-top",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top"
+        }]
+    }, {
+        "name": "border-top-color",
+        "references": [{
+            "name": "See border-top-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top-color"
+        }]
+    }, {
+        "name": "border-top-left-radius",
+        "references": [{
+            "name": "See border-top-left-radius",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top-left-radius"
+        }]
+    }, {
+        "name": "border-top-right-radius",
+        "references": [{
+            "name": "See border-top-right-radius",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top-right-radius"
+        }]
+    }, {
+        "name": "border-top-style",
+        "references": [{
+            "name": "See border-top-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top-style"
+        }]
+    }, {
+        "name": "border-top-width",
+        "references": [{
+            "name": "See border-top-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-top-width"
+        }]
+    }, {
+        "name": "border-width",
+        "references": [{
+            "name": "See border-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#border-width"
+        }]
+    }, {
+        "name": "box-shadow",
+        "description": "Specifies outer shadows for boxes, or inset shadows/glows.",
+        "references": [{
+            "name": "See box-shadow",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#box-shadow"
+        }]
+    }, {
+        "name": "brightness",
+        "description": "Sets the brightness that applies to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See brightness",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#brightness"
+        }]
+    }, {
+        "name": "clip",
+        "description": "Specifies a clip region within the panel, where contents will be clipped at render time.",
+        "references": [{
+            "name": "See clip",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#clip"
+        }]
+    }, {
+        "name": "color",
+        "description": "Sets the foreground fill color/gradient/combination for a panel.",
+        "references": [{
+            "name": "See color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#color"
+        }]
+    }, {
+        "name": "context-menu-arrow-position",
+        "description": "Specifies where to point the arrow of a context menu at on this panel.",
+        "references": [{
+            "name": "See context-menu-arrow-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#context-menu-arrow-position"
+        }]
+    }, {
+        "name": "context-menu-body-position",
+        "description": "Specifies where to position the body of a context menu relative to this panel.",
+        "references": [{
+            "name": "See context-menu-body-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#context-menu-body-position"
+        }]
+    }, {
+        "name": "context-menu-position",
+        "description": "Specifies where to position a context menu relative to this panel.",
+        "references": [{
+            "name": "See context-menu-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#context-menu-position"
+        }]
+    }, {
+        "name": "contrast",
+        "description": "Sets the contrast that applies to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See contrast",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#contrast"
+        }]
+    }, {
+        "name": "flow-children",
+        "references": [{
+            "name": "See flow-children",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#flow-children"
+        }]
+    }, {
+        "name": "font",
+        "references": [{
+            "name": "See font",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font"
+        }]
+    }, {
+        "name": "font-family",
+        "description": "Specifies the font face to use.",
+        "references": [{
+            "name": "See font-family",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font-family"
+        }]
+    }, {
+        "name": "font-size",
+        "description": "Specifies the target font face height in pixels.",
+        "references": [{
+            "name": "See font-size",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font-size"
+        }]
+    }, {
+        "name": "font-stretch",
+        "description": "Specifies the font stretch to use.",
+        "references": [{
+            "name": "See font-stretch",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font-stretch"
+        }]
+    }, {
+        "name": "font-style",
+        "references": [{
+            "name": "See font-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font-style"
+        }]
+    }, {
+        "name": "font-weight",
+        "references": [{
+            "name": "See font-weight",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#font-weight"
+        }]
+    }, {
+        "name": "height",
+        "description": "Sets the height for this panel.",
+        "references": [{
+            "name": "See height",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#height"
+        }]
+    }, {
+        "name": "horizontal-align",
+        "references": [{
+            "name": "See horizontal-align",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#horizontal-align"
+        }]
+    }, {
+        "name": "hue-rotation",
+        "description": "Sets the hue rotation to apply to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See hue-rotation",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#hue-rotation"
+        }]
+    }, {
+        "name": "img-shadow",
+        "description": "Specifies image shadows.",
+        "references": [{
+            "name": "See img-shadow",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#img-shadow"
+        }]
+    }, {
+        "name": "letter-spacing",
+        "description": "Sets letter-spacing for text in a string.",
+        "references": [{
+            "name": "See letter-spacing",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#letter-spacing"
+        }]
+    }, {
+        "name": "line-height",
+        "description": "Specifies the line height (distance between top edge of line above and line below) to use for text.",
+        "references": [{
+            "name": "See line-height",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#line-height"
+        }]
+    }, {
+        "name": "margin",
+        "references": [{
+            "name": "See margin",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#margin"
+        }]
+    }, {
+        "name": "margin-bottom",
+        "references": [{
+            "name": "See margin-bottom",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#margin-bottom"
+        }]
+    }, {
+        "name": "margin-left",
+        "references": [{
+            "name": "See margin-left",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#margin-left"
+        }]
+    }, {
+        "name": "margin-right",
+        "references": [{
+            "name": "See margin-right",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#margin-right"
+        }]
+    }, {
+        "name": "margin-top",
+        "references": [{
+            "name": "See margin-top",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#margin-top"
+        }]
+    }, {
+        "name": "max-height",
+        "references": [{
+            "name": "See max-height",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#max-height"
+        }]
+    }, {
+        "name": "max-width",
+        "references": [{
+            "name": "See max-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#max-width"
+        }]
+    }, {
+        "name": "min-height",
+        "references": [{
+            "name": "See min-height",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#min-height"
+        }]
+    }, {
+        "name": "min-width",
+        "references": [{
+            "name": "See min-width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#min-width"
+        }]
+    }, {
+        "name": "opacity",
+        "description": "Sets the opacity or amount of transparency applied to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See opacity",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#opacity"
+        }]
+    }, {
+        "name": "opacity-mask",
+        "description": "Applies an image as an opacity mask that stretches to the panel bounds and fades out it's content based on the alpha channel.",
+        "references": [{
+            "name": "See opacity-mask",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#opacity-mask"
+        }]
+    }, {
+        "name": "opacity-mask-scroll-down",
+        "references": [{
+            "name": "See opacity-mask-scroll-down",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#opacity-mask-scroll-down"
+        }]
+    }, {
+        "name": "opacity-mask-scroll-up",
+        "references": [{
+            "name": "See opacity-mask-scroll-up",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#opacity-mask-scroll-up"
+        }]
+    }, {
+        "name": "opacity-mask-scroll-up-down",
+        "references": [{
+            "name": "See opacity-mask-scroll-up-down",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#opacity-mask-scroll-up-down"
+        }]
+    }, {
+        "name": "overflow",
+        "description": "Specifies what to do with contents that overflow the available space for the panel.",
+        "references": [{
+            "name": "See overflow",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#overflow"
+        }]
+    }, {
+        "name": "padding",
+        "references": [{
+            "name": "See padding",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#padding"
+        }]
+    }, {
+        "name": "padding-bottom",
+        "references": [{
+            "name": "See padding-bottom",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#padding-bottom"
+        }]
+    }, {
+        "name": "padding-left",
+        "references": [{
+            "name": "See padding-left",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#padding-left"
+        }]
+    }, {
+        "name": "padding-right",
+        "references": [{
+            "name": "See padding-right",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#padding-right"
+        }]
+    }, {
+        "name": "padding-top",
+        "references": [{
+            "name": "See padding-top",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#padding-top"
+        }]
+    }, {
+        "name": "perspective",
+        "description": "Sets the perspective depth space available for children of the panel.",
+        "references": [{
+            "name": "See perspective",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#perspective"
+        }]
+    }, {
+        "name": "perspective-origin",
+        "description": "Sets the perspective origin which will be used when transforming children of this panel.",
+        "references": [{
+            "name": "See perspective-origin",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#perspective-origin"
+        }]
+    }, {
+        "name": "position",
+        "description": "Sets the x, y, z position for a panel.",
+        "references": [{
+            "name": "See position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#position"
+        }]
+    }, {
+        "name": "pre-transform-rotate2d",
+        "description": "Sets 2 dimensional rotation degrees that apply to the quad for this panel prior to 3 dimensional transforms.",
+        "references": [{
+            "name": "See pre-transform-rotate2d",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#pre-transform-rotate2d"
+        }]
+    }, {
+        "name": "pre-transform-scale2d",
+        "description": "Sets 2 dimensional X/Y scale factors that apply to the quad for this panel prior to 3 dimensional transforms.",
+        "references": [{
+            "name": "See pre-transform-scale2d",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#pre-transform-scale2d"
+        }]
+    }, {
+        "name": "saturation",
+        "description": "Sets the amount of saturation to apply to the panel and all it's children during composition.",
+        "references": [{
+            "name": "See saturation",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#saturation"
+        }]
+    }, {
+        "name": "sound",
+        "description": "Specifies a sound name to play when this selector is applied.",
+        "references": [{
+            "name": "See sound",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#sound"
+        }]
+    }, {
+        "name": "sound-out",
+        "description": "Specifies a sound name to play when this selector is removed.",
+        "references": [{
+            "name": "See sound-out",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#sound-out"
+        }]
+    }, {
+        "name": "text-align",
+        "description": "Specifies the text alignment for text within this panel, defaults to left.",
+        "references": [{
+            "name": "See text-align",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-align"
+        }]
+    }, {
+        "name": "text-decoration",
+        "description": "Specifies the decoration for text within this panel, defaults to none.",
+        "references": [{
+            "name": "See text-decoration",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-decoration"
+        }]
+    }, {
+        "name": "text-decoration-style",
+        "description": "Specifies the decoration style for text within this panel, defaults to none.",
+        "references": [{
+            "name": "See text-decoration-style",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-decoration-style"
+        }]
+    }, {
+        "name": "text-overflow",
+        "description": "Controls truncation of text that doesn't fit in a panel.",
+        "references": [{
+            "name": "See text-overflow",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-overflow"
+        }]
+    }, {
+        "name": "text-shadow",
+        "description": "Specifies text shadows. The shadow shape will match the text the panel can generate,and this is only meaningful for labels.",
+        "references": [{
+            "name": "See text-shadow",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-shadow"
+        }]
+    }, {
+        "name": "text-transform",
+        "description": "Specifies the transform for text within this panel, defaults to none.",
+        "references": [{
+            "name": "See text-transform",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#text-transform"
+        }]
+    }, {
+        "name": "texture-sampling",
+        "description": "Controls texture sampling mode for the panel.",
+        "references": [{
+            "name": "See texture-sampling",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#texture-sampling"
+        }]
+    }, {
+        "name": "tooltip-arrow-position",
+        "description": "Specifies where to point the arrow of a tooltip at on this panel.",
+        "references": [{
+            "name": "See tooltip-arrow-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#tooltip-arrow-position"
+        }]
+    }, {
+        "name": "tooltip-body-position",
+        "description": "Specifies where to position the body of a tooltip relative to this panel.",
+        "references": [{
+            "name": "See tooltip-body-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#tooltip-body-position"
+        }]
+    }, {
+        "name": "tooltip-position",
+        "description": "Specifies where to position a tooltip relative to this panel.",
+        "references": [{
+            "name": "See tooltip-position",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#tooltip-position"
+        }]
+    }, {
+        "name": "transform",
+        "description": "Sets the transforms to apply to the panel in 2d or 3d space.",
+        "references": [{
+            "name": "See transform",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transform"
+        }]
+    }, {
+        "name": "transform-origin",
+        "description": "Sets the transform origin about which transforms will be applied.",
+        "references": [{
+            "name": "See transform-origin",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transform-origin"
+        }]
+    }, {
+        "name": "transition",
+        "description": "Specifies which properties should transition smoothly to new values if a class/pseudo class changes the styles.",
+        "references": [{
+            "name": "See transition",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transition"
+        }]
+    }, {
+        "name": "transition-delay",
+        "description": "Specifies the delay in seconds to use for transition properties on this panel, if more than one comma delimited value is specified then the values are applied to each property specified in 'transition-property' in order.",
+        "references": [{
+            "name": "See transition-delay",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transition-delay"
+        }]
+    }, {
+        "name": "transition-duration",
+        "description": "Specifies the durating in seconds to use for transition properties on this panel, if more than one comma delimited value is specified then the values are applied to each property specified in 'transition-property' in order.",
+        "references": [{
+            "name": "See transition-duration",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transition-duration"
+        }]
+    }, {
+        "name": "transition-property",
+        "description": "Specifies which properties should transition smoothly to new values if a class/pseudo class changes the styles.",
+        "references": [{
+            "name": "See transition-property",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transition-property"
+        }]
+    }, {
+        "name": "transition-timing-function",
+        "description": "Specifies the timing function to use for transition properties on this panel, if more than one comma delimited value is specified then the values are applied to each property specified in 'transition-property' in order.",
+        "references": [{
+            "name": "See transition-timing-function",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#transition-timing-function"
+        }]
+    }, {
+        "name": "ui-scale",
+        "description": "Specifies a scale to apply to this panel's layout and all descendants.",
+        "references": [{
+            "name": "See ui-scale",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#ui-scale"
+        }]
+    }, {
+        "name": "ui-scale-x",
+        "description": "Specifies a scale to apply to this panel's layout and all descendants.",
+        "references": [{
+            "name": "See ui-scale-x",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#ui-scale-x"
+        }]
+    }, {
+        "name": "ui-scale-y",
+        "description": "Specifies a scale to apply to this panel's layout and all descendants.",
+        "references": [{
+            "name": "See ui-scale-y",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#ui-scale-y"
+        }]
+    }, {
+        "name": "ui-scale-z",
+        "description": "Specifies a scale to apply to this panel's layout and all descendants.",
+        "references": [{
+            "name": "See ui-scale-z",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#ui-scale-z"
+        }]
+    }, {
+        "name": "vertical-align",
+        "references": [{
+            "name": "See vertical-align",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#vertical-align"
+        }]
+    }, {
+        "name": "visibility",
+        "description": "Controls if the panel is visible and is included in panel layout.",
+        "references": [{
+            "name": "See visibility",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#visibility"
+        }]
+    }, {
+        "name": "wash-color",
+        "description": "Specifies a 'wash' color, which means a color that will be blended over the panel and all it's children at composition time, tinting them.",
+        "references": [{
+            "name": "See wash-color",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#wash-color"
+        }]
+    }, {
+        "name": "white-space",
+        "description": "Controls white-space wrapping on rendered text.",
+        "references": [{
+            "name": "See white-space",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#white-space"
+        }]
+    }, {
+        "name": "width",
+        "description": "Sets the width for this panel.",
+        "references": [{
+            "name": "See width",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#width"
+        }]
+    }, {
+        "name": "x",
+        "description": "Sets the x position for a panel.",
+        "references": [{
+            "name": "See x",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#x"
+        }]
+    }, {
+        "name": "y",
+        "description": "Sets the y position for a panel.",
+        "references": [{
+            "name": "See y",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#y"
+        }]
+    }, {
+        "name": "z",
+        "description": "Sets the z position for a panel.",
+        "references": [{
+            "name": "See z",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#z"
+        }]
+    }, {
+        "name": "z-index",
+        "description": "Sets the z-index for a panel, panels will be sorted and painted in order within a parent panel.The default z-index value is 0.",
+        "references": [{
+            "name": "See z-index",
+            "url": "https://developer.valvesoftware.com/wiki/Dota_2_Workshop_Tools/Panorama/CSS_Properties#z-index"
+        }]
+    }],
+    "pseudoClasses": []
+}

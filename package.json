@@ -1,0 +1,17 @@
+{
+	"name": "dota2-plugins",
+	"description": "A simple \"vscode\" plugins for dota2",
+	"version": "0.0.0",
+	"publisher": "invoker",
+	"repository": "https://github.com/Microsoft/vscode-extension-samples",
+	"engines": {
+		"vscode": "^1.38.0"
+	},
+	"contributes": {
+		"css": {
+			"customData": [
+				"./css.css-data.json"
+			]
+		}
+	}
+}
