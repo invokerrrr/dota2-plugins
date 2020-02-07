@@ -1,17 +1,42 @@
 {
 	"name": "dota2-plugins",
-	"description": "A simple \"vscode\" plugins for dota2",
-	"version": "0.0.0",
+	"description": "\"vscode\" plugins for dota2 rpg",
+	"version": "1.0.0",
 	"publisher": "invoker",
-	"repository": "https://github.com/Microsoft/vscode-extension-samples",
+	"author": {
+		"name": "invoker",
+		"email": "594404963@qq.com"
+	},
+	"repository": "https://github.com/invokerrrr/dota2-plugins.git",
+	"bugs": {
+		"email": "594404963@qq.com",
+		"url": "https://github.com/invokerrrr/dota2-plugins/issues"
+	},
 	"engines": {
 		"vscode": "^1.38.0"
 	},
+	"icon": "img/icon.jpg",
 	"contributes": {
 		"css": {
 			"customData": [
-				"./css.css-data.json"
+				"./dist/css.css-data.json"
 			]
 		}
+	},
+	"devDependencies": {
+		"fs": "0.0.1-security",
+		"glob": "^7.1.6",
+		"gulp": "^4.0.2",
+		"gulp-cli": "^2.2.0",
+		"js-yaml": "^3.13.1",
+		"mkdirp": "^1.0.3"
+	},
+	"keywords": [
+		"vscode",
+		"dota"
+	],
+	"license": "MIT",
+	"scripts": {
+		"build":"gulp"
 	}
 }
